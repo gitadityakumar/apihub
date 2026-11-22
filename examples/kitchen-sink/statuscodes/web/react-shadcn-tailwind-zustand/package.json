@@ -52,6 +52,7 @@
     "micromatch": "^4.0.8",
     "cross-spawn": "^7.0.5",
     "nanoid": "^3.3.8",
-    "form-data": "^2.5.4"
+    "form-data": "^2.5.4",
+    "minimatch": "^11.0.1"
   }
 }
